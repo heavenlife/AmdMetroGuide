@@ -1,0 +1,751 @@
+{
+  "last_updated": "2026-05-29",
+  "fare_slabs": [
+    {
+      "max_km": 2,
+      "fare": 5
+    },
+    {
+      "max_km": 7,
+      "fare": 10
+    },
+    {
+      "max_km": 12,
+      "fare": 15
+    },
+    {
+      "max_km": 17,
+      "fare": 20
+    },
+    {
+      "max_km": 22,
+      "fare": 25
+    },
+    {
+      "max_km": 27,
+      "fare": 30
+    },
+    {
+      "max_km": 32,
+      "fare": 35
+    },
+    {
+      "max_km": 37,
+      "fare": 40
+    },
+    {
+      "max_km": 999,
+      "fare": 50
+    }
+  ],
+  "lines": [
+    {
+      "id": "L1",
+      "name": "East-West Corridor",
+      "name_gj": "પૂર્વ-પશ્ચિમ કોરિડોર",
+      "color": "0xFF0054A6",
+      "operating_hours": {
+        "start": "06:20",
+        "end": "23:00"
+      },
+      "schedules": [
+        {
+          "start": "06:20",
+          "end": "08:00",
+          "interval": 10
+        },
+        {
+          "start": "08:00",
+          "end": "11:00",
+          "interval": 7
+        },
+        {
+          "start": "11:00",
+          "end": "17:00",
+          "interval": 10
+        },
+        {
+          "start": "17:00",
+          "end": "20:00",
+          "interval": 7
+        },
+        {
+          "start": "20:00",
+          "end": "23:00",
+          "interval": 10
+        }
+      ],
+      "station_ids": [
+        "Vastral_Gam",
+        "Nirant_Cross_Road",
+        "Vastral",
+        "Rabari_Colony",
+        "Amraiwadi",
+        "Apparel_Park",
+        "Kankaria_East",
+        "Kalupur_Metro_Station",
+        "Ghee_Kanta",
+        "Shahpur",
+        "Old_High_Court",
+        "S_P_Stadium",
+        "Commerce_Six_Road",
+        "Gujarat_University",
+        "Gurukul_Road",
+        "Doordarshan_Kendra",
+        "Thaltej",
+        "Thaltej_Gam"
+      ]
+    },
+    {
+      "id": "L2",
+      "name": "North-South Corridor",
+      "name_gj": "ઉત્તર-દક્ષિણ કોરિડોર",
+      "color": "0xFFED1C24",
+      "operating_hours": {
+        "start": "06:20",
+        "end": "23:00"
+      },
+      "schedules": [
+        {
+          "start": "06:20",
+          "end": "22:00",
+          "interval": 12
+        },
+        {
+          "start": "22:00",
+          "end": "23:00",
+          "interval": 20
+        }
+      ],
+      "station_ids": [
+        "APMC",
+        "Jivraj_Park",
+        "Rajivnagar",
+        "Shreyas",
+        "Paldi",
+        "Gandhigram",
+        "Old_High_Court_L2",
+        "Usmanpura",
+        "Vijay_Nagar",
+        "Vadaj",
+        "Ranip",
+        "Sabarmati_Railway_Station",
+        "AEC",
+        "Sabarmati",
+        "Motera_Stadium"
+      ]
+    },
+    {
+      "id": "L3",
+      "name": "Phase 2 North Extension",
+      "name_gj": "ફેઝ ૨ ઉત્તર એક્સ્ટેંશન",
+      "color": "0xFFFFD600",
+      "operating_hours": {
+        "start": "06:40",
+        "end": "21:20"
+      },
+      "schedules": [
+        {
+          "start": "06:40",
+          "end": "08:00",
+          "interval": 40
+        },
+        {
+          "start": "08:00",
+          "end": "21:20",
+          "interval": 24
+        }
+      ],
+      "station_ids": [
+        "Motera_Stadium_L3",
+        "Koteshwar_Road",
+        "Vishwakarma_College",
+        "Tapovan_Circle",
+        "Narmada_Canal",
+        "Koba_Circle",
+        "Juna_Koba",
+        "Koba_Gam",
+        "GNLU",
+        "Raysan",
+        "Randesan",
+        "Dholakuva_Circle",
+        "Infocity",
+        "Sector_1",
+        "Sector_10A",
+        "Sachivalaya",
+        "Akshardham",
+        "Juna_Sachivalaya",
+        "Sector_16",
+        "Sector_24",
+        "Mahatma_Mandir"
+      ]
+    },
+    {
+      "id": "L4",
+      "name": "GIFT City Branch",
+      "name_gj": "ગિફ્ટ સિટી બ્રાન્ચ",
+      "color": "0xFF6A1B9A",
+      "operating_hours": {
+        "start": "07:36",
+        "end": "19:13"
+      },
+      "schedules": [
+        {
+          "start": "07:36",
+          "end": "10:18",
+          "interval": 49
+        },
+        {
+          "start": "10:18",
+          "end": "16:06",
+          "interval": -1
+        },
+        {
+          "start": "16:06",
+          "end": "19:13",
+          "interval": 57
+        }
+      ],
+      "station_ids": [
+        "GNLU_L4",
+        "PDEU",
+        "GIFT_City"
+      ]
+    }
+  ],
+  "stations": {
+    "Vastral_Gam": {
+      "name": "Vastral Gam",
+      "name_gj": "વસ્ત્રાલ ગામ",
+      "lat": 22.9977843,
+      "lng": 72.6644512,
+      "line_id": "L1",
+      "dist": 0.0,
+      "time_offset": 0
+    },
+    "Nirant_Cross_Road": {
+      "name": "Nirant Cross Road",
+      "name_gj": "નિરાંત ક્રોસ રોડ",
+      "lat": 22.9998194,
+      "lng": 72.6540457,
+      "line_id": "L1",
+      "dist": 1.25,
+      "time_offset": 2
+    },
+    "Vastral": {
+      "name": "Vastral",
+      "name_gj": "વસ્ત્રાલ",
+      "lat": 23.0035969,
+      "lng": 72.6386136,
+      "line_id": "L1",
+      "dist": 2.51,
+      "time_offset": 4
+    },
+    "Rabari_Colony": {
+      "name": "Rabari Colony",
+      "name_gj": "રબારી કોલોની",
+      "lat": 23.0055424,
+      "lng": 72.6298956,
+      "line_id": "L1",
+      "dist": 3.76,
+      "time_offset": 6
+    },
+    "Amraiwadi": {
+      "name": "Amraiwadi",
+      "name_gj": "અમરાઈવાડી",
+      "lat": 23.0080233,
+      "lng": 72.6269329,
+      "line_id": "L1",
+      "dist": 5.01,
+      "time_offset": 8
+    },
+    "Apparel_Park": {
+      "name": "Apparel Park",
+      "name_gj": "એપરલ પાર્ક",
+      "lat": 23.0106036,
+      "lng": 72.616624,
+      "line_id": "L1",
+      "dist": 6.27,
+      "time_offset": 10
+    },
+    "Kankaria_East": {
+      "name": "Kankaria East",
+      "name_gj": "કાંકરિયા પૂર્વ",
+      "lat": 23.016,
+      "lng": 72.61,
+      "line_id": "L1",
+      "dist": 7.52,
+      "time_offset": 13
+    },
+    "Kalupur_Metro_Station": {
+      "name": "Kalupur Metro Station",
+      "name_gj": "કાલુપુર મેટ્રો સ્ટેશન",
+      "lat": 23.0247637,
+      "lng": 72.5848887,
+      "line_id": "L1",
+      "dist": 8.78,
+      "time_offset": 16
+    },
+    "Ghee_Kanta": {
+      "name": "Ghee Kanta",
+      "name_gj": "ઘી કાંટા",
+      "lat": 23.028375,
+      "lng": 72.5836939,
+      "line_id": "L1",
+      "dist": 10.04,
+      "time_offset": 19
+    },
+    "Shahpur": {
+      "name": "Shahpur",
+      "name_gj": "શાહપુર",
+      "lat": 23.0391086,
+      "lng": 72.5807489,
+      "line_id": "L1",
+      "dist": 11.29,
+      "time_offset": 21
+    },
+    "Old_High_Court": {
+      "name": "Old High Court",
+      "name_gj": "જૂની હાઈકોર્ટ",
+      "lat": 23.0374492,
+      "lng": 72.5664082,
+      "line_id": "L1",
+      "dist": 12.55,
+      "interchange": true,
+      "connecting": [
+        "L1",
+        "L2"
+      ],
+      "time_offset": 24
+    },
+    "S_P_Stadium": {
+      "name": "S P Stadium",
+      "name_gj": "એસ પી સ્ટેડિયમ",
+      "lat": 23.0398704,
+      "lng": 72.5577608,
+      "line_id": "L1",
+      "dist": 13.8,
+      "time_offset": 27
+    },
+    "Commerce_Six_Road": {
+      "name": "Commerce Six Road",
+      "name_gj": "કોમર્સ છ રસ્તા",
+      "lat": 23.0412375,
+      "lng": 72.5503862,
+      "line_id": "L1",
+      "dist": 15.06,
+      "time_offset": 29
+    },
+    "Gujarat_University": {
+      "name": "Gujarat University",
+      "name_gj": "ગુજરાત યુનિવર્સિટી",
+      "lat": 23.0448562,
+      "lng": 72.5378882,
+      "line_id": "L1",
+      "dist": 16.31,
+      "time_offset": 31
+    },
+    "Gurukul_Road": {
+      "name": "Gurukul Road",
+      "name_gj": "ગુરુકુલ રોડ",
+      "lat": 23.0458829,
+      "lng": 72.5259125,
+      "line_id": "L1",
+      "dist": 17.57,
+      "time_offset": 34
+    },
+    "Doordarshan_Kendra": {
+      "name": "Doordarshan Kendra",
+      "name_gj": "દૂરદર્શન કેન્દ્ર",
+      "lat": 23.0481733,
+      "lng": 72.515468,
+      "line_id": "L1",
+      "dist": 18.82,
+      "time_offset": 36
+    },
+    "Thaltej": {
+      "name": "Thaltej",
+      "name_gj": "થલતેજ",
+      "lat": 23.0497332,
+      "lng": 72.5091238,
+      "line_id": "L1",
+      "dist": 20.08,
+      "time_offset": 39
+    },
+    "Thaltej_Gam": {
+      "name": "Thaltej Gam",
+      "name_gj": "થલતેજ ગામ",
+      "lat": 23.0504292,
+      "lng": 72.500927,
+      "line_id": "L1",
+      "dist": 21.33,
+      "time_offset": 41
+    },
+    "APMC": {
+      "name": "APMC",
+      "name_gj": "એપીએમસી",
+      "lat": 22.9973449,
+      "lng": 72.5318274,
+      "line_id": "L2",
+      "dist": 0.0,
+      "time_offset": 0
+    },
+    "Jivraj_Park": {
+      "name": "Jivraj Park",
+      "name_gj": "જીવરાજ પાર્ક",
+      "lat": 23.0050126,
+      "lng": 72.5288141,
+      "line_id": "L2",
+      "dist": 1.35,
+      "time_offset": 3
+    },
+    "Rajivnagar": {
+      "name": "Rajivnagar",
+      "name_gj": "રાજીવનગર",
+      "lat": 23.0113382,
+      "lng": 72.5327254,
+      "line_id": "L2",
+      "dist": 2.7,
+      "time_offset": 5
+    },
+    "Shreyas": {
+      "name": "Shreyas",
+      "name_gj": "શ્રેયસ",
+      "lat": 23.013653,
+      "lng": 72.549448,
+      "line_id": "L2",
+      "dist": 4.05,
+      "time_offset": 7
+    },
+    "Paldi": {
+      "name": "Paldi",
+      "name_gj": "પાલડી",
+      "lat": 23.0184541,
+      "lng": 72.5613294,
+      "line_id": "L2",
+      "dist": 5.4,
+      "time_offset": 10
+    },
+    "Gandhigram": {
+      "name": "Gandhigram",
+      "name_gj": "ગાંધીગ્રામ",
+      "lat": 23.0264434,
+      "lng": 72.568159,
+      "line_id": "L2",
+      "dist": 6.75,
+      "time_offset": 12
+    },
+    "Old_High_Court_L2": {
+      "name": "Old High Court",
+      "name_gj": "જૂની હાઈકોર્ટ",
+      "lat": 23.0376355,
+      "lng": 72.5663948,
+      "line_id": "L2",
+      "dist": 8.1,
+      "interchange": true,
+      "connecting": [
+        "L2",
+        "L1"
+      ],
+      "time_offset": 15
+    },
+    "Usmanpura": {
+      "name": "Usmanpura",
+      "name_gj": "ઉસ્માનપુરા",
+      "lat": 23.0453884,
+      "lng": 72.5644076,
+      "line_id": "L2",
+      "dist": 9.45,
+      "time_offset": 17
+    },
+    "Vijay_Nagar": {
+      "name": "Vijay Nagar",
+      "name_gj": "વિજય નગર",
+      "lat": 23.0548326,
+      "lng": 72.5616438,
+      "line_id": "L2",
+      "dist": 10.8,
+      "time_offset": 19
+    },
+    "Vadaj": {
+      "name": "Vadaj",
+      "name_gj": "વાડજ",
+      "lat": 23.067732,
+      "lng": 72.5672616,
+      "line_id": "L2",
+      "dist": 12.15,
+      "time_offset": 20
+    },
+    "Ranip": {
+      "name": "Ranip",
+      "name_gj": "રાણીપ",
+      "lat": 23.067732,
+      "lng": 72.5672616,
+      "line_id": "L2",
+      "dist": 13.5,
+      "time_offset": 23
+    },
+    "Sabarmati_Railway_Station": {
+      "name": "Sabarmati Railway Station",
+      "name_gj": "સાબરમતી રેલવે સ્ટેશન",
+      "lat": 23.0700367,
+      "lng": 72.5872352,
+      "line_id": "L2",
+      "dist": 14.85,
+      "time_offset": 26
+    },
+    "AEC": {
+      "name": "AEC",
+      "name_gj": "એઈસી",
+      "lat": 23.0749957,
+      "lng": 72.5887056,
+      "line_id": "L2",
+      "dist": 16.2,
+      "time_offset": 28
+    },
+    "Sabarmati": {
+      "name": "Sabarmati",
+      "name_gj": "સાબરમતી",
+      "lat": 23.0858146,
+      "lng": 72.5915757,
+      "line_id": "L2",
+      "dist": 17.55,
+      "time_offset": 30
+    },
+    "Motera_Stadium": {
+      "name": "Motera Stadium",
+      "name_gj": "મોટેરા સ્ટેડિયમ",
+      "lat": 23.0967541,
+      "lng": 72.5952522,
+      "line_id": "L2",
+      "dist": 18.9,
+      "interchange": true,
+      "connecting": [
+        "L2",
+        "L3"
+      ],
+      "time_offset": 33
+    },
+    "Motera_Stadium_L3": {
+      "name": "Motera Stadium",
+      "name_gj": "મોટેરા સ્ટેડિયમ",
+      "lat": 23.0967541,
+      "lng": 72.5952522,
+      "line_id": "L3",
+      "dist": 18.9,
+      "time_offset": 33
+    },
+    "Koteshwar_Road": {
+      "name": "Koteshwar Road",
+      "name_gj": "કોટેશ્વર રોડ",
+      "lat": 23.1059442,
+      "lng": 72.6012357,
+      "line_id": "L3",
+      "dist": 19.98,
+      "time_offset": 35
+    },
+    "Vishwakarma_College": {
+      "name": "Vishwakarma College",
+      "name_gj": "વિશ્વકર્મા કોલેજ",
+      "lat": 23.1144546,
+      "lng": 72.6067475,
+      "line_id": "L3",
+      "dist": 21.07,
+      "time_offset": 37
+    },
+    "Tapovan_Circle": {
+      "name": "Tapovan Circle",
+      "name_gj": "તપોવન સર્કલ",
+      "lat": 23.1201931,
+      "lng": 72.613005,
+      "line_id": "L3",
+      "dist": 22.05,
+      "time_offset": 39
+    },
+    "Narmada_Canal": {
+      "name": "Narmada Canal",
+      "name_gj": "નર્મદા કેનાલ",
+      "lat": 23.1251562,
+      "lng": 72.6176333,
+      "line_id": "L3",
+      "dist": 22.96,
+      "time_offset": 41
+    },
+    "Koba_Circle": {
+      "name": "Koba Circle",
+      "name_gj": "કોબા સર્કલ",
+      "lat": 23.1301266,
+      "lng": 72.6272101,
+      "line_id": "L3",
+      "dist": 24.11,
+      "time_offset": 43
+    },
+    "Juna_Koba": {
+      "name": "Juna Koba",
+      "name_gj": "જૂના કોબા",
+      "lat": 23.1418121,
+      "lng": 72.6367594,
+      "line_id": "L3",
+      "dist": 25.12,
+      "time_offset": 45
+    },
+    "Koba_Gam": {
+      "name": "Koba Gam",
+      "name_gj": "કોબા ગામ",
+      "lat": 23.1464284,
+      "lng": 72.6414816,
+      "line_id": "L3",
+      "dist": 26.13,
+      "time_offset": 47
+    },
+    "GNLU": {
+      "name": "GNLU",
+      "name_gj": "GNLU",
+      "lat": 23.1545559,
+      "lng": 72.6446899,
+      "line_id": "L3",
+      "dist": 27.04,
+      "interchange": true,
+      "connecting": [
+        "L3",
+        "L4"
+      ],
+      "time_offset": 49
+    },
+    "Raysan": {
+      "name": "Raysan",
+      "name_gj": "રાયસણ",
+      "lat": 23.1659315,
+      "lng": 72.6470446,
+      "line_id": "L3",
+      "dist": 28.48,
+      "time_offset": 51
+    },
+    "Randesan": {
+      "name": "Randesan",
+      "name_gj": "રાંદેસણ",
+      "lat": 23.1791288,
+      "lng": 72.6438288,
+      "line_id": "L3",
+      "dist": 29.85,
+      "time_offset": 53
+    },
+    "Dholakuva_Circle": {
+      "name": "Dholakuva Circle",
+      "name_gj": "ધોલાકુવા સર્કલ",
+      "lat": 23.1859408,
+      "lng": 72.6412198,
+      "line_id": "L3",
+      "dist": 31.01,
+      "time_offset": 55
+    },
+    "Infocity": {
+      "name": "Infocity",
+      "name_gj": "ઇન્ફોસિટી",
+      "lat": 23.1912418,
+      "lng": 72.6357932,
+      "line_id": "L3",
+      "dist": 32.4,
+      "time_offset": 57
+    },
+    "Sector_1": {
+      "name": "Sector 1",
+      "name_gj": "સેક્ટર ૧",
+      "lat": 23.2053021,
+      "lng": 72.6415457,
+      "line_id": "L3",
+      "dist": 33.67,
+      "time_offset": 59
+    },
+    "Sector_10A": {
+      "name": "Sector 10A",
+      "name_gj": "સેક્ટર ૧૦એ",
+      "lat": 23.2110599,
+      "lng": 72.6502639,
+      "line_id": "L3",
+      "dist": 34.92,
+      "time_offset": 61
+    },
+    "Sachivalaya": {
+      "name": "Sachivalaya",
+      "name_gj": "સચિવાલય",
+      "lat": 23.214966,
+      "lng": 72.6573164,
+      "line_id": "L3",
+      "dist": 36.11,
+      "time_offset": 63
+    },
+    "Akshardham": {
+      "name": "Akshardham",
+      "name_gj": "અક્ષરધામ",
+      "lat": 23.2237493,
+      "lng": 72.6620259,
+      "line_id": "L3",
+      "dist": 37.24,
+      "time_offset": 65
+    },
+    "Juna_Sachivalaya": {
+      "name": "Juna Sachivalaya",
+      "name_gj": "જૂના સચિવાલય",
+      "lat": 23.2289889,
+      "lng": 72.6580138,
+      "line_id": "L3",
+      "dist": 38.14,
+      "time_offset": 67
+    },
+    "Sector_16": {
+      "name": "Sector 16",
+      "name_gj": "સેક્ટર ૧૬",
+      "lat": 23.2335409,
+      "lng": 72.648653,
+      "line_id": "L3",
+      "dist": 39.23,
+      "time_offset": 69
+    },
+    "Sector_24": {
+      "name": "Sector 24",
+      "name_gj": "સેક્ટર ૨૪",
+      "lat": 23.2385741,
+      "lng": 72.6392566,
+      "line_id": "L3",
+      "dist": 40.27,
+      "time_offset": 71
+    },
+    "Mahatma_Mandir": {
+      "name": "Mahatma Mandir",
+      "name_gj": "મહાત્મા મંદિર",
+      "lat": 23.2339695,
+      "lng": 72.6317196,
+      "line_id": "L3",
+      "dist": 41.47,
+      "time_offset": 73
+    },
+    "GNLU_L4": {
+      "name": "GNLU",
+      "name_gj": "GNLU",
+      "lat": 23.154485,
+      "lng": 72.6474089,
+      "line_id": "L4",
+      "dist": 0.0,
+      "time_offset": 49
+    },
+    "PDEU": {
+      "name": "PDEU",
+      "name_gj": "PDEU",
+      "lat": 23.1551264,
+      "lng": 72.6601902,
+      "line_id": "L4",
+      "dist": 1.75,
+      "time_offset": 52
+    },
+    "GIFT_City": {
+      "name": "GIFT City",
+      "name_gj": "ગિફ્ટ સિટી",
+      "lat": 23.1530051,
+      "lng": 72.6847764,
+      "line_id": "L4",
+      "dist": 4.61,
+      "time_offset": 55
+    }
+  }
+}
