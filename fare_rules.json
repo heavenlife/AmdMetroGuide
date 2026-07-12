@@ -1,0 +1,185 @@
+  {
+    "EN": {
+    "title": "Fare Rules",
+    "fareMedia": [
+      "QR - Tickets (Including Paper & Mobile App Tickets)",
+      "Contactless Smart Token (CST)",
+      "Contactless Smart Card (CSC) - GMRC",
+      "NCMC (National Common Mobility Card)",
+      "Temporary Paper Ticket (It will be used in case of Failure of AFC System)",
+      "Special Paper Tickets (For Special Events/Occasions)"
+    ],
+    "fareProducts": [
+      "Single Journey Ticket",
+      "Return Journey Ticket",
+      "Group Ticket (For Group of Passengers more than 09)"
+    ],
+    "rules": [
+      "Two Children only under 3-feet height are allowed to travel free if accompanied by one adult.",
+      "Passengers can purchase Tickets from Ticket Windows at all operational stations by payment through Cash/UPI/POS (Debit/Credit Card). In addition, QR-Tickets can be purchased online from official GMRC Mobile App by payment through UPI/Debit/Credit Cards/Net Banking.",
+      "Passenger carrying expired/Invalid QR ticket will be treated as a ticketless passenger.",
+      "Snapshot/photo/image in mobile or photocopy of QR ticket will not be considered as valid travel ticket and passenger found using these will be considered as a ticketless passenger.",
+      "The QR-Paper ticket & Digital Mobile QR tickets shall be valid for use within 30 minutes and 180 minutes respectively of issuance for Journey, only from QR ticket issuing station.",
+      "QR ticket is valid for entry through the Fare gates of originating station only and Passenger have to keep their travelling QR ticket intact till their journey is completed.",
+      "If QR ticket is damaged or lost by passenger while travelling, then no replacement will be provided.",
+      "Passengers claiming phone hang, loss, battery failure, switched-off device, or network issues for a digital QR mobile app ticket will be treated as ticketless passengers.",
+      "The Mobile QR Ticket can be purchased between the prescribed scheduled timings only.",
+      "Each QR ticket is itself a ticket-cum-Receipt, so there is no provision of additional receipt for passenger.",
+      "NCMC are issued, operated and maintained by Banking institution as per the governing guidelines for the product.",
+      "All refund, replacement or after sale dispute/grievance related to NCMC will be dealt by respective issuing bank and GMRC will not be liable for any after sale service other than resolving travelling related issues and mismatches.",
+      "Lost or Unreadable NCMC shall neither be replaced nor be refunded by GMRC.",
+      "All the passengers travelling using NCMC are offered 10% discount on completion of journey as per current fare rules.",
+      "Every valid entry will have to be followed by a valid exit. Mismatch for the permitted sequence will be penalised at EFO as per penalty procedure, except in case of exit having been made due to any emergency/incident.",
+      "If Entry Mismatch is generated in NCMC due to missing of Exit from other transport system (other than GMRC), adjustment will be done as per penalty procedure of GMRC.",
+      "If an NCMC cardholder's travelled fare exceeds the available Transit Wallet balance, the fare gate (FG) will not permit exit. If the passenger fails to top up the NCMC card in such cases, they will be treated as a ticketless traveller.",
+      "Travel using Token or GMRC CSC is permitted only within Phase 1 (Ahmedabad) stations and not permitted to travel between Phase-1 (Thaltej Gam to Vastral Gam and APMC to Motera Stadium) and Phase-2 (Koteshwar to Mahatma Mandir and GNLU to Gift City).",
+      "Travelling in reverse direction from destination station is not permitted. Passenger must exit from paid area and re-enter to travel back, paying the full fare for the new journey."
+    ],
+    "refundPolicy": [
+      "Only unused QR-Paper Ticket/Token (not used for the entry) can be refunded within 30 minutes from time of issue from the issuing station.",
+      "No partial refund of tickets is allowed.",
+      "Group QR ticket is non-refundable.",
+      "Digital Mobile QR tickets are non-refundable."
+    ],
+    "maximumPermissibleTime": [
+      "20 minutes in case of Exit from Same Station.",
+      "240 Minutes in case of Exit from other Station by QR ticket."
+    ],
+    "luggageLimit": [
+      "Maximum Weight: 25 Kg",
+      "Maximum Dimension: 80 cm x 50 cm x 30 cm (Length x Breadth x Height)",
+      "Luggage exceeding the size or weight limit will not be allowed."
+    ],
+    "penalties": [
+      "Penalty of Rs. 200/- will be levied if person is caught trying to carry away token outside premise of GMRC.",
+      "Penalty of Rs. 50/- plus Maximum fare of the system will be charged if passenger is found without valid Ticket in paid area in line with Section 69 of Metro Railways (Operations & Maintenance) Act, 2002.",
+      "Difference of fare will be charged from passenger if they overstep their journey beyond the destination station.",
+      "Penalty of Rs. 50/- plus difference of fare overstepped will be levied if person is caught trying to exit the gate (by tailgating, jumping over the gate or any other unfair means) without paying the fare for overstepped distance.",
+      "Penalty of Rs. 10/- per hour per person subject to maximum of Rs. 50/- per person for staying in paid area for time more than Maximum permissible time.",
+      "Penalty of the maximum fare from the last four transactions, or from the last available transactions as per the NCMC travel history, will be applied to NCMC travellers in case of an Entry/Exit sequence mismatch in the GMRC system.",
+      "Penalty of Rs. 150/- will be imposed if the Entry and Exit sequence is not properly followed while accessing the paid area of the metro premises using a Digital Mobile QR ticket in line with Section 64(1) of Metro Railways (Operations & Maintenance) Act, 2002."
+    ]
+  },
+  "GU": {
+    "title": "ભાડા નિયમો",
+    "fareMedia": [
+      "QR ટિકિટ (પેપર અને મોબાઇલ એપ ટિકિટ સહિત)",
+      "કોન્ટેક્ટલેસ સ્માર્ટ ટોકન (CST)",
+      "કોન્ટેક્ટલેસ સ્માર્ટ કાર્ડ (CSC) - GMRC",
+      "NCMC (નેશનલ કોમન મોબિલિટી કાર્ડ)",
+      "કામચલાઉ પેપર ટિકિટ (AFC સિસ્ટમ નિષ્ફળ જાય ત્યારે ઉપયોગમાં લેવાશે)",
+      "વિશેષ પેપર ટિકિટ (વિશેષ કાર્યક્રમો અથવા પ્રસંગો માટે)"
+    ],
+    "fareProducts": [
+      "એકમાર્ગીય મુસાફરી ટિકિટ",
+      "આવજા મુસાફરી ટિકિટ",
+      "ગ્રુપ ટિકિટ (9 કરતાં વધુ મુસાફરોના જૂથ માટે)"
+    ],
+    "rules": [
+      "એક પુખ્ત વ્યક્તિ સાથે માત્ર 3 ફૂટથી ઓછી ઊંચાઈ ધરાવતા બે બાળકોને મફત મુસાફરી કરવાની મંજૂરી છે.",
+      "મુસાફરો તમામ કાર્યરત સ્ટેશનો પર ટિકિટ વિન્ડો પરથી રોકડ, UPI અથવા POS (ડેબિટ/ક્રેડિટ કાર્ડ) દ્વારા ટિકિટ ખરીદી શકે છે. ઉપરાંત, QR ટિકિટ GMRC મોબાઇલ એપ દ્વારા UPI, ડેબિટ કાર્ડ, ક્રેડિટ કાર્ડ અથવા નેટ બેન્કિંગ દ્વારા ખરીદી શકાય છે.",
+      "સમાપ્ત થયેલી અથવા અમાન્ય QR ટિકિટ ધરાવતા મુસાફરને ટિકિટ વિના મુસાફર ગણવામાં આવશે.",
+      "મોબાઇલમાં રહેલી QR ટિકિટની તસવીર, સ્ક્રીનશોટ અથવા ફોટોકોપી માન્ય ટિકિટ ગણાશે નહીં અને તેનો ઉપયોગ કરનાર મુસાફરને ટિકિટ વિના મુસાફર ગણવામાં આવશે.",
+      "QR પેપર ટિકિટ અને ડિજિટલ મોબાઇલ QR ટિકિટ અનુક્રમે જારી થયાના 30 મિનિટ અને 180 મિનિટની અંદર ઉપયોગ માટે માન્ય રહેશે અને તે માત્ર જારી કરાયેલા સ્ટેશન પરથી જ માન્ય રહેશે.",
+      "QR ટિકિટ માત્ર મૂળ સ્ટેશનના પ્રવેશ દ્વાર માટે માન્ય છે અને મુસાફરે મુસાફરી પૂર્ણ થાય ત્યાં સુધી ટિકિટ સાચવી રાખવી જરૂરી છે.",
+      "મુસાફરી દરમિયાન QR ટિકિટ ખોવાઈ જાય અથવા નુકસાન પામે તો તેની કોઈ બદલી આપવામાં આવશે નહીં.",
+      "મોબાઇલ હેંગ થવું, ફોન ખોવાઈ જવો, બેટરી ખતમ થવી, ફોન બંધ થઈ જવો અથવા નેટવર્ક સમસ્યાના કારણે ડિજિટલ QR ટિકિટ બતાવી ન શકનાર મુસાફરને ટિકિટ વિના મુસાફર ગણવામાં આવશે.",
+      "મોબાઇલ QR ટિકિટ માત્ર નિર્ધારિત સમયગાળા દરમિયાન જ ખરીદી શકાય છે.",
+      "દરેક QR ટિકિટ પોતે જ ટિકિટ અને રસીદ તરીકે કાર્ય કરે છે, તેથી અલગ રસીદ આપવામાં આવશે નહીં.",
+      "NCMC કાર્ડ સંબંધિત તમામ કામગીરી અને જાળવણી સંબંધિત બેંક દ્વારા કરવામાં આવે છે.",
+      "NCMC સંબંધિત રિફંડ, બદલાવ અથવા વેચાણ પછીના વિવાદો સંબંધિત બેંક દ્વારા ઉકેલવામાં આવશે. GMRC માત્ર મુસાફરી સંબંધિત મુદ્દાઓ માટે જવાબદાર રહેશે.",
+      "ખોવાયેલ અથવા વાંચી ન શકાય તેવું NCMC કાર્ડ GMRC દ્વારા બદલવામાં અથવા રિફંડ કરવામાં આવશે નહીં.",
+      "NCMC દ્વારા મુસાફરી કરનાર તમામ મુસાફરોને મુસાફરી પૂર્ણ થયા પછી વર્તમાન નિયમો મુજબ 10% ડિસ્કાઉન્ટ આપવામાં આવશે.",
+      "દરેક માન્ય પ્રવેશ પછી માન્ય બહાર નીકળવું જરૂરી છે. નિયમોના ઉલ્લંઘન બદલ દંડ વસૂલવામાં આવશે, સિવાય કે ઇમરજન્સી અથવા અકસ્માતની પરિસ્થિતિ હોય.",
+      "જો અન્ય પરિવહન પ્રણાલીમાં એક્ઝિટ ન થવાને કારણે NCMC માં Entry Mismatch સર્જાય, તો GMRC ની દંડ પ્રક્રિયા મુજબ સમાયોજન કરવામાં આવશે.",
+      "જો NCMC કાર્ડધારકના ટ્રાન્ઝિટ વોલેટમાં ઉપલબ્ધ રકમ કરતાં મુસાફરી ભાડું વધુ હોય, તો બહાર નીકળવાની મંજૂરી આપવામાં આવશે નહીં. રિચાર્જ ન કરાય તો મુસાફરને ટિકિટ વિના મુસાફર ગણવામાં આવશે.",
+      "ટોકન અથવા GMRC CSC નો ઉપયોગ માત્ર ફેઝ-1 (અમદાવાદ) સ્ટેશનોમાં જ કરી શકાય છે. ફેઝ-1 અને ફેઝ-2 વચ્ચે મુસાફરી માટે તેનો ઉપયોગ કરી શકાશે નહીં.",
+      "ગંતવ્ય સ્ટેશન પરથી વિપરીત દિશામાં મુસાફરી કરવાની મંજૂરી નથી. મુસાફરે પહેલા બહાર નીકળી નવી ટિકિટ લઈને ફરી પ્રવેશ કરવો પડશે."
+    ],
+    "refundPolicy": [
+      "પ્રવેશ માટે ઉપયોગમાં ન લેવાયેલી QR પેપર ટિકિટ અથવા ટોકન જારી થયાના 30 મિનિટની અંદર જારી કરનાર સ્ટેશન પરથી રિફંડ કરી શકાય છે.",
+      "ટિકિટનું આંશિક રિફંડ આપવામાં આવશે નહીં.",
+      "ગ્રુપ QR ટિકિટ માટે રિફંડ ઉપલબ્ધ નથી.",
+      "ડિજિટલ મોબાઇલ QR ટિકિટ માટે રિફંડ ઉપલબ્ધ નથી."
+    ],
+    "maximumPermissibleTime": [
+      "એક જ સ્ટેશન પરથી બહાર નીકળવા માટે મહત્તમ સમય 20 મિનિટ.",
+      "અન્ય સ્ટેશન પરથી બહાર નીકળવા માટે મહત્તમ સમય 240 મિનિટ."
+    ],
+    "luggageLimit": [
+      "મહત્તમ વજન: 25 કિલોગ્રામ",
+      "મહત્તમ કદ: 80 સેમી × 50 સેમી × 30 સેમી (લંબાઈ × પહોળાઈ × ઊંચાઈ)",
+      "આ મર્યાદા કરતાં વધુ વજન અથવા કદનું સામાન મંજૂર નહીં હોય."
+    ],
+    "penalties": [
+      "GMRC પરિસરની બહાર ટોકન લઈ જવાનો પ્રયાસ કરનાર વ્યક્તિ પાસેથી ₹200 નો દંડ વસૂલવામાં આવશે.",
+      "માન્ય ટિકિટ વિના પેઇડ એરિયામાં મળતા મુસાફર પાસેથી ₹50 દંડ તેમજ સિસ્ટમનું મહત્તમ ભાડું વસૂલવામાં આવશે.",
+      "નિર્ધારિત ગંતવ્યથી આગળ મુસાફરી કરવાના કિસ્સામાં વધારાનું ભાડું વસૂલવામાં આવશે.",
+      "ભાડું ચૂકવ્યા વગર ગેટ પાર કરવાનો પ્રયાસ કરનાર વ્યક્તિ પાસેથી ₹50 દંડ તેમજ વધારાના અંતરનું ભાડું વસૂલવામાં આવશે.",
+      "મહત્તમ સમય મર્યાદા કરતાં વધુ સમય સુધી પેઇડ એરિયામાં રહેવા બદલ પ્રતિ કલાક ₹10 દંડ વસૂલવામાં આવશે, જે મહત્તમ ₹50 સુધી મર્યાદિત રહેશે.",
+      "NCMC માં Entry/Exit ક્રમમાં ગડબડ થાય તો છેલ્લી ચાર મુસાફરીઓના મહત્તમ ભાડા મુજબ દંડ વસૂલવામાં આવશે.",
+      "ડિજિટલ મોબાઇલ QR ટિકિટનો ઉપયોગ કરતી વખતે Entry અને Exit નો યોગ્ય ક્રમ ન અનુસરવા બદલ ₹150 નો દંડ વસૂલવામાં આવશે."
+    ]
+  },
+  "HI": {
+    "title": "किराया नियम",
+    "fareMedia": [
+      "QR टिकट (पेपर और मोबाइल ऐप टिकट सहित)",
+      "कॉन्टैक्टलेस स्मार्ट टोकन (CST)",
+      "कॉन्टैक्टलेस स्मार्ट कार्ड (CSC) - GMRC",
+      "NCMC (नेशनल कॉमन मोबिलिटी कार्ड)",
+      "अस्थायी पेपर टिकट (AFC सिस्टम विफल होने की स्थिति में उपयोग किया जाएगा)",
+      "विशेष पेपर टिकट (विशेष कार्यक्रमों या अवसरों के लिए)"
+    ],
+    "fareProducts": [
+      "एकल यात्रा टिकट",
+      "आवागमन (रिटर्न) यात्रा टिकट",
+      "समूह टिकट (9 से अधिक यात्रियों के समूह के लिए)"
+    ],
+    "rules": [
+      "एक वयस्क के साथ केवल 3 फीट से कम ऊँचाई वाले दो बच्चों को निःशुल्क यात्रा की अनुमति है।",
+      "यात्री सभी परिचालन स्टेशनों पर टिकट खिड़की से नकद, UPI, डेबिट कार्ड या क्रेडिट कार्ड के माध्यम से टिकट खरीद सकते हैं। इसके अतिरिक्त, QR टिकट GMRC मोबाइल ऐप के माध्यम से UPI, डेबिट कार्ड, क्रेडिट कार्ड या नेट बैंकिंग से खरीदे जा सकते हैं।",
+      "समाप्त या अमान्य QR टिकट रखने वाले यात्री को बिना टिकट यात्री माना जाएगा।",
+      "मोबाइल में QR टिकट का स्क्रीनशॉट, फोटो या फोटोकॉपी वैध यात्रा टिकट नहीं माना जाएगा और इसका उपयोग करने वाले यात्री को बिना टिकट यात्री माना जाएगा।",
+      "QR पेपर टिकट और डिजिटल मोबाइल QR टिकट क्रमशः जारी होने के 30 मिनट और 180 मिनट के भीतर उपयोग के लिए मान्य होंगे तथा केवल उसी स्टेशन से मान्य होंगे जहाँ से टिकट जारी किया गया है।",
+      "QR टिकट केवल मूल स्टेशन के प्रवेश द्वार से प्रवेश के लिए मान्य है और यात्री को यात्रा पूरी होने तक अपना QR टिकट सुरक्षित रखना होगा।",
+      "यदि यात्रा के दौरान QR टिकट खो जाता है या क्षतिग्रस्त हो जाता है, तो उसका कोई प्रतिस्थापन प्रदान नहीं किया जाएगा।",
+      "मोबाइल हैंग होना, फोन खो जाना, बैटरी समाप्त होना, फोन बंद होना या नेटवर्क समस्या के कारण डिजिटल QR टिकट न दिखा पाने वाले यात्री को बिना टिकट यात्री माना जाएगा।",
+      "मोबाइल QR टिकट केवल निर्धारित समय अवधि के दौरान ही खरीदा जा सकता है।",
+      "प्रत्येक QR टिकट स्वयं टिकट एवं रसीद के रूप में कार्य करता है, इसलिए अलग से रसीद प्रदान नहीं की जाएगी।",
+      "NCMC कार्ड संबंधित बैंक द्वारा जारी, संचालित और प्रबंधित किए जाते हैं।",
+      "NCMC से संबंधित सभी रिफंड, प्रतिस्थापन या बिक्री पश्चात शिकायतें संबंधित बैंक द्वारा निपटाई जाएँगी। GMRC केवल यात्रा संबंधी मुद्दों के लिए जिम्मेदार होगा।",
+      "खोया हुआ या अपठनीय NCMC कार्ड GMRC द्वारा न तो बदला जाएगा और न ही उसका रिफंड किया जाएगा।",
+      "NCMC का उपयोग कर यात्रा करने वाले सभी यात्रियों को वर्तमान किराया नियमों के अनुसार यात्रा पूर्ण होने पर 10% की छूट दी जाएगी।",
+      "प्रत्येक वैध प्रवेश के बाद वैध निकास आवश्यक है। नियमों का उल्लंघन होने पर दंड लगाया जाएगा, सिवाय आपातकालीन स्थिति या दुर्घटना के मामलों में।",
+      "यदि किसी अन्य परिवहन प्रणाली से निकास न होने के कारण NCMC में Entry Mismatch उत्पन्न होता है, तो GMRC की दंड प्रक्रिया के अनुसार समायोजन किया जाएगा।",
+      "यदि NCMC कार्डधारक का यात्रा किराया उसके ट्रांजिट वॉलेट बैलेंस से अधिक है, तो उसे निकास की अनुमति नहीं दी जाएगी। रिचार्ज न करने की स्थिति में उसे बिना टिकट यात्री माना जाएगा।",
+      "टोकन या GMRC CSC का उपयोग केवल फेज-1 (अहमदाबाद) स्टेशनों के भीतर ही किया जा सकता है। फेज-1 और फेज-2 के बीच यात्रा की अनुमति नहीं है।",
+      "गंतव्य स्टेशन से विपरीत दिशा में यात्रा करना अनुमत नहीं है। यात्री को पहले पेड एरिया से बाहर निकलकर नई यात्रा के लिए पुनः प्रवेश करना होगा और पूरा किराया देना होगा।"
+    ],
+    "refundPolicy": [
+      "केवल अप्रयुक्त QR पेपर टिकट या टोकन (जिसका प्रवेश के लिए उपयोग नहीं किया गया हो) जारी होने के 30 मिनट के भीतर उसी स्टेशन से रिफंड किया जा सकता है जहाँ से जारी किया गया था।",
+      "टिकट का आंशिक रिफंड नहीं दिया जाएगा।",
+      "ग्रुप QR टिकट का रिफंड उपलब्ध नहीं है।",
+      "डिजिटल मोबाइल QR टिकट का रिफंड उपलब्ध नहीं है।"
+    ],
+    "maximumPermissibleTime": [
+      "उसी स्टेशन से निकास के लिए अधिकतम समय 20 मिनट है।",
+      "दूसरे स्टेशन से निकास के लिए अधिकतम समय 240 मिनट है।"
+    ],
+    "luggageLimit": [
+      "अधिकतम वजन: 25 किलोग्राम",
+      "अधिकतम आकार: 80 सेमी × 50 सेमी × 30 सेमी (लंबाई × चौड़ाई × ऊँचाई)",
+      "इस सीमा से अधिक आकार या वजन का सामान ले जाने की अनुमति नहीं होगी।"
+    ],
+    "penalties": [
+      "GMRC परिसर के बाहर टोकन ले जाने का प्रयास करने पर ₹200 का जुर्माना लगाया जाएगा।",
+      "पेड एरिया में बिना वैध टिकट पाए जाने पर ₹50 का जुर्माना तथा सिस्टम का अधिकतम किराया वसूला जाएगा।",
+      "निर्धारित गंतव्य स्टेशन से आगे यात्रा करने पर अतिरिक्त किराया वसूला जाएगा।",
+      "बिना किराया चुकाए गेट पार करने का प्रयास करने पर ₹50 का जुर्माना तथा अतिरिक्त दूरी का किराया वसूला जाएगा।",
+      "अधिकतम अनुमत समय से अधिक पेड एरिया में रुकने पर प्रति घंटे ₹10 का जुर्माना लगाया जाएगा, जो अधिकतम ₹50 तक सीमित होगा।",
+      "NCMC में Entry/Exit अनुक्रम में गड़बड़ी होने पर पिछली चार यात्राओं के अधिकतम किराए के आधार पर जुर्माना लगाया जाएगा।",
+      "डिजिटल मोबाइल QR टिकट का उपयोग करते समय Entry और Exit का सही क्रम न अपनाने पर ₹150 का जुर्माना लगाया जाएगा।"
+    ]
+  }
+}
