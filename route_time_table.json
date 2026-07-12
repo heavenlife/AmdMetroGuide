@@ -1,0 +1,140 @@
+{
+  "notes": [
+    "i. Ticket Windows at all Stations will be closed Five Minutes before departure of the last revenue train.",
+    "ii. Frequency of Metro Train Services are subject to change due to inevitable reasons."
+  ],
+  "routes": [
+    {
+      "tabName": "Line - 1",
+      "activeColorHex": "#0B6FB7",
+      "routeTitle": "Vastral Gam to Thaltej Gam\nEast West (EW Corridor)",
+      "frequencyTitle": "Train Frequency",
+      "frequencies": [
+        {
+          "left": "Weekdays Peak Hour 8:00 Hrs to 11:00 Hrs and 17:00 Hrs to 20:00 Hrs",
+          "right": "Every 07 Minutes"
+        },
+        {
+          "left": "Weekdays - Non Peak Hours & Saturday - Peak Hours",
+          "right": "Every 10 Minutes"
+        },
+        {
+          "left": "Saturday - Non Peak Hours & Sunday - Full Day",
+          "right": "Every 12 Minutes"
+        },
+        {
+          "left": "All Days - 06:20 Hrs. to 07:00 Hrs. & 22:00 Hrs to 23:00 Hrs",
+          "right": "Every 20 Minutes"
+        }
+      ],
+      "firstLastTitle": "Departure of First & Last Train Timing",
+      "firstTrainLabel": "Departure First Train",
+      "lastTrainLabel": "Departure Last Train",
+      "firstTrain": [
+        "06:20 Hrs : from Vastral Gam",
+        "06:20 Hrs : from Thaltej Gam"
+      ],
+      "lastTrain": [
+        "23:00 Hrs : from Vastral Gam",
+        "23:00 Hrs : from Thaltej Gam"
+      ],
+      "travelTitle": "Travel Time/Distance",
+      "travelTimeDistanceLabel": "Travel Time & Distance",
+      "travelTimeDistance": "45 Min & 21.1 KM"
+    },
+    {
+      "tabName": "Line - 2",
+      "activeColorHex": "#E12A1C",
+      "routeTitle": "APMC to Motera Stadium\nNorth South (NS Corridor)",
+      "frequencyTitle": "Train Frequency",
+      "frequencies": [
+        {
+          "left": "Monday to Sunday (From 06:16 Hrs to 22:00 Hrs)",
+          "right": "Every 12 Minutes"
+        },
+        {
+          "left": "Monday to Sunday (From 22:00 Hrs to 23:00 Hrs)",
+          "right": "Every 20 Minutes"
+        }
+      ],
+      "firstLastTitle": "Departure of First & Last Train Timing",
+      "firstTrainLabel": "Departure First Train",
+      "lastTrainLabel": "Departure Last Train",
+      "firstTrain": [
+        "06:20 Hrs : from APMC",
+        "06:16 Hrs: from Koteshwar Road"
+      ],
+      "lastTrain": [
+        "23:10 Hrs: from APMC",
+        "23:00 Hrs: from Koteshwar Road"
+      ],
+      "travelTitle": "Travel Time/Distance",
+      "travelTimeDistanceLabel": "Travel Time & Distance",
+      "travelTimeDistance": "35 Min & 20.2 KM"
+    },
+    {
+      "tabName": "Line - 3",
+      "activeColorHex": "#F5AE22",
+      "routeTitle": "Koteshwar Road - Mahatma Mandir\nCorridor-1",
+      "frequencyTitle": "Train Frequency",
+      "frequencies": [
+        {
+          "left": "Monday to Sunday (From 06:40 Hrs to 08:00 Hrs)",
+          "right": "Average 40 Minutes"
+        },
+        {
+          "left": "Monday to Sunday (From 08:00 Hrs to 21:00 Hrs)",
+          "right": "Average 24 Minutes"
+        }
+      ],
+      "firstLastTitle": "Departure of First & Last Train Timing",
+      "firstTrainLabel": "Departure First Train",
+      "lastTrainLabel": "Departure Last Train",
+      "firstTrain": [
+        "06:55 Hrs: from Koteshwar Road",
+        "06:40 Hrs: from Mahatma Mandir"
+      ],
+      "lastTrain": [
+        "21:20 Hrs: from Koteshwar Road",
+        "21:00 Hrs: from Mahatma Mandir"
+      ],
+      "travelTitle": "Travel Time/Distance",
+      "travelTimeDistanceLabel": "Travel Time & Distance",
+      "travelTimeDistance": "43 Min & 20.87 KM"
+    },
+    {
+      "tabName": "Line - 4",
+      "activeColorHex": "#6D2FA4",
+      "routeTitle": "GNLU to GIFT City\nCorridor-2",
+      "frequencyTitle": "Train Frequency",
+      "frequencies": [
+        {
+          "left": "From 07:36 Hrs. to 10:18 Hrs.",
+          "right": "Average 49 Minutes"
+        },
+        {
+          "left": "From 10:18 Hrs. to 16:06 Hrs.",
+          "right": "Only Bus Services for GNLU-GIFT City"
+        },
+        {
+          "left": "From 16:06 Hrs. to 19:13 Hrs.",
+          "right": "Average 57 Minutes"
+        }
+      ],
+      "firstLastTitle": "Departure of First & Last Train Timing",
+      "firstTrainLabel": "Departure First Train",
+      "lastTrainLabel": "Departure Last Train",
+      "firstTrain": [
+        "07:36 Hrs : from GNLU",
+        "07:48 Hrs : from GIFT City"
+      ],
+      "lastTrain": [
+        "18:57 Hrs : from GNLU",
+        "19:13 Hrs : from GIFT City"
+      ],
+      "travelTitle": "Travel Time/Distance",
+      "travelTimeDistanceLabel": "Travel Time & Distance",
+      "travelTimeDistance": "06 Min & 5.8 KM"
+    }
+  ]
+}
