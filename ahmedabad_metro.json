@@ -221,7 +221,8 @@
       "lng": 72.6644512,
       "line_id": "L1",
       "dist": 0.0,
-      "time_offset": 0
+      "time_offset": 0,
+      "address": "Vastral Gam Metro Station"
     },
     "Nirant_Cross_Road": {
       "name": "Nirant Cross Road",
@@ -230,7 +231,8 @@
       "lng": 72.6540457,
       "line_id": "L1",
       "dist": 1.25,
-      "time_offset": 2
+      "time_offset": 2,
+      "address": "Nirant Cross Road Metro Station"
     },
     "Vastral": {
       "name": "Vastral",
@@ -239,7 +241,8 @@
       "lng": 72.6386136,
       "line_id": "L1",
       "dist": 2.51,
-      "time_offset": 4
+      "time_offset": 4,
+      "address": "Vastral Metro Station"
     },
     "Rabari_Colony": {
       "name": "Rabari Colony",
@@ -248,7 +251,8 @@
       "lng": 72.6298956,
       "line_id": "L1",
       "dist": 3.76,
-      "time_offset": 6
+      "time_offset": 6,
+      "address": "Rabari Colony Metro Station"
     },
     "Amraiwadi": {
       "name": "Amraiwadi",
@@ -257,7 +261,8 @@
       "lng": 72.6269329,
       "line_id": "L1",
       "dist": 5.01,
-      "time_offset": 8
+      "time_offset": 8,
+      "address": "Amraiwadi Metro Station"
     },
     "Apparel_Park": {
       "name": "Apparel Park",
@@ -266,7 +271,8 @@
       "lng": 72.616624,
       "line_id": "L1",
       "dist": 6.27,
-      "time_offset": 10
+      "time_offset": 10,
+      "address": "Apparel Park Metro Station"
     },
     "Kankaria_East": {
       "name": "Kankaria East",
@@ -275,7 +281,8 @@
       "lng": 72.61,
       "line_id": "L1",
       "dist": 7.52,
-      "time_offset": 13
+      "time_offset": 13,
+      "address": "Kankaria East Metro Station"
     },
     "Kalupur_Metro_Station": {
       "name": "Kalupur Metro Station",
@@ -284,7 +291,8 @@
       "lng": 72.5848887,
       "line_id": "L1",
       "dist": 8.78,
-      "time_offset": 16
+      "time_offset": 16,
+      "address": "Kalupur Metro Station"
     },
     "Ghee_Kanta": {
       "name": "Ghee Kanta",
@@ -293,7 +301,8 @@
       "lng": 72.5836939,
       "line_id": "L1",
       "dist": 10.04,
-      "time_offset": 19
+      "time_offset": 19,
+      "address": "Ghee Kanta Metro Station"
     },
     "Shahpur": {
       "name": "Shahpur",
@@ -302,7 +311,8 @@
       "lng": 72.5807489,
       "line_id": "L1",
       "dist": 11.29,
-      "time_offset": 21
+      "time_offset": 21,
+      "address": "Shahpur Metro Station"
     },
     "Old_High_Court": {
       "name": "Old High Court",
@@ -312,6 +322,7 @@
       "line_id": "L1",
       "dist": 12.55,
       "interchange": true,
+      "address": "Old High Court Metro Station",
       "connecting": [
         "L1",
         "L2"
@@ -325,7 +336,8 @@
       "lng": 72.5577608,
       "line_id": "L1",
       "dist": 13.8,
-      "time_offset": 27
+      "time_offset": 27,
+      "address": "S P Stadium Metro Station"
     },
     "Commerce_Six_Road": {
       "name": "Commerce Six Road",
@@ -334,7 +346,8 @@
       "lng": 72.5503862,
       "line_id": "L1",
       "dist": 15.06,
-      "time_offset": 29
+      "time_offset": 29,
+      "address": "Commerce Six Road Metro Station"
     },
     "Gujarat_University": {
       "name": "Gujarat University",
@@ -343,7 +356,8 @@
       "lng": 72.5378882,
       "line_id": "L1",
       "dist": 16.31,
-      "time_offset": 31
+      "time_offset": 31,
+      "address": "Gujarat University Metro Station"
     },
     "Gurukul_Road": {
       "name": "Gurukul Road",
@@ -352,7 +366,8 @@
       "lng": 72.5259125,
       "line_id": "L1",
       "dist": 17.57,
-      "time_offset": 34
+      "time_offset": 34,
+      "address": "Gurukul Road Metro Station"
     },
     "Doordarshan_Kendra": {
       "name": "Doordarshan Kendra",
@@ -361,7 +376,8 @@
       "lng": 72.515468,
       "line_id": "L1",
       "dist": 18.82,
-      "time_offset": 36
+      "time_offset": 36,
+      "address": "Doordarshan Kendra Metro Station"
     },
     "Thaltej": {
       "name": "Thaltej",
@@ -370,7 +386,8 @@
       "lng": 72.5091238,
       "line_id": "L1",
       "dist": 20.08,
-      "time_offset": 39
+      "time_offset": 39,
+      "address": "Thaltej Metro Station"
     },
     "Thaltej_Gam": {
       "name": "Thaltej Gam",
@@ -379,7 +396,8 @@
       "lng": 72.500927,
       "line_id": "L1",
       "dist": 21.33,
-      "time_offset": 41
+      "time_offset": 41,
+      "address": "Thaltej Gam Metro Station"
     },
     "APMC": {
       "name": "APMC",
@@ -388,7 +406,8 @@
       "lng": 72.5318274,
       "line_id": "L2",
       "dist": 0.0,
-      "time_offset": 0
+      "time_offset": 0,
+      "address": "APMC Metro Station"
     },
     "Jivraj_Park": {
       "name": "Jivraj Park",
@@ -397,7 +416,8 @@
       "lng": 72.5288141,
       "line_id": "L2",
       "dist": 1.35,
-      "time_offset": 3
+      "time_offset": 3,
+      "address": "Jivraj Park Metro Station"
     },
     "Rajivnagar": {
       "name": "Rajivnagar",
@@ -406,7 +426,8 @@
       "lng": 72.5327254,
       "line_id": "L2",
       "dist": 2.7,
-      "time_offset": 5
+      "time_offset": 5,
+      "address": "Rajivnagar Metro Station"
     },
     "Shreyas": {
       "name": "Shreyas",
@@ -415,7 +436,8 @@
       "lng": 72.549448,
       "line_id": "L2",
       "dist": 4.05,
-      "time_offset": 7
+      "time_offset": 7,
+      "address": "Shreyas Metro Station"
     },
     "Paldi": {
       "name": "Paldi",
@@ -424,7 +446,8 @@
       "lng": 72.5613294,
       "line_id": "L2",
       "dist": 5.4,
-      "time_offset": 10
+      "time_offset": 10,
+      "address": "Paldi Metro Station"
     },
     "Gandhigram": {
       "name": "Gandhigram",
@@ -433,7 +456,8 @@
       "lng": 72.568159,
       "line_id": "L2",
       "dist": 6.75,
-      "time_offset": 12
+      "time_offset": 12,
+      "address": "Gandhigram Metro Station"
     },
     "Old_High_Court_L2": {
       "name": "Old High Court",
@@ -443,6 +467,7 @@
       "line_id": "L2",
       "dist": 8.1,
       "interchange": true,
+      "address": "Old High Court Metro Station",
       "connecting": [
         "L2",
         "L1"
@@ -456,7 +481,8 @@
       "lng": 72.5644076,
       "line_id": "L2",
       "dist": 9.45,
-      "time_offset": 17
+      "time_offset": 17,
+      "address": "Usmanpura Metro Station"
     },
     "Vijay_Nagar": {
       "name": "Vijay Nagar",
@@ -465,7 +491,8 @@
       "lng": 72.5616438,
       "line_id": "L2",
       "dist": 10.8,
-      "time_offset": 19
+      "time_offset": 19,
+      "address": "Vijay Nagar Metro Station"
     },
     "Vadaj": {
       "name": "Vadaj",
@@ -474,7 +501,8 @@
       "lng": 72.5672616,
       "line_id": "L2",
       "dist": 12.15,
-      "time_offset": 20
+      "time_offset": 20,
+      "address": "Vadaj Metro Station"
     },
     "Ranip": {
       "name": "Ranip",
@@ -483,7 +511,8 @@
       "lng": 72.5672616,
       "line_id": "L2",
       "dist": 13.5,
-      "time_offset": 23
+      "time_offset": 23,
+      "address": "Ranip Metro Station"
     },
     "Sabarmati_Railway_Station": {
       "name": "Sabarmati Railway Station",
@@ -492,7 +521,8 @@
       "lng": 72.5872352,
       "line_id": "L2",
       "dist": 14.85,
-      "time_offset": 26
+      "time_offset": 26,
+      "address": "Sabarmati Railway Metro Station"
     },
     "AEC": {
       "name": "AEC",
@@ -501,7 +531,8 @@
       "lng": 72.5887056,
       "line_id": "L2",
       "dist": 16.2,
-      "time_offset": 28
+      "time_offset": 28,
+      "address": "AEC Metro Station"
     },
     "Sabarmati": {
       "name": "Sabarmati",
@@ -510,7 +541,8 @@
       "lng": 72.5915757,
       "line_id": "L2",
       "dist": 17.55,
-      "time_offset": 30
+      "time_offset": 30,
+      "address": "Sabarmati Metro Station"
     },
     "Motera_Stadium": {
       "name": "Motera Stadium",
@@ -520,6 +552,7 @@
       "line_id": "L2",
       "dist": 18.9,
       "interchange": true,
+      "address": "Motera Stadium Metro Station",
       "connecting": [
         "L2",
         "L3"
@@ -533,7 +566,8 @@
       "lng": 72.5952522,
       "line_id": "L3",
       "dist": 18.9,
-      "time_offset": 33
+      "time_offset": 33,
+      "address": "Motera Stadium Metro Station"
     },
     "Koteshwar_Road": {
       "name": "Koteshwar Road",
@@ -542,7 +576,8 @@
       "lng": 72.6012357,
       "line_id": "L3",
       "dist": 19.98,
-      "time_offset": 35
+      "time_offset": 35,
+      "address": "Koteshwar Road Metro Station"
     },
     "Vishwakarma_College": {
       "name": "Vishwakarma College",
@@ -551,7 +586,8 @@
       "lng": 72.6067475,
       "line_id": "L3",
       "dist": 21.07,
-      "time_offset": 37
+      "time_offset": 37,
+      "address": "Vishwakarma College Metro Station"
     },
     "Tapovan_Circle": {
       "name": "Tapovan Circle",
@@ -560,7 +596,8 @@
       "lng": 72.613005,
       "line_id": "L3",
       "dist": 22.05,
-      "time_offset": 39
+      "time_offset": 39,
+      "address": "Tapovan Circle Metro Station"
     },
     "Narmada_Canal": {
       "name": "Narmada Canal",
@@ -569,7 +606,8 @@
       "lng": 72.6176333,
       "line_id": "L3",
       "dist": 22.96,
-      "time_offset": 41
+      "time_offset": 41,
+      "address": "Narmada Canal Metro Station"
     },
     "Koba_Circle": {
       "name": "Koba Circle",
@@ -578,7 +616,8 @@
       "lng": 72.6272101,
       "line_id": "L3",
       "dist": 24.11,
-      "time_offset": 43
+      "time_offset": 43,
+      "address": "Koba Circle Metro Station"
     },
     "Juna_Koba": {
       "name": "Juna Koba",
@@ -587,7 +626,8 @@
       "lng": 72.6367594,
       "line_id": "L3",
       "dist": 25.12,
-      "time_offset": 45
+      "time_offset": 45,
+      "address": "Juna Koba Metro Station"
     },
     "Koba_Gam": {
       "name": "Koba Gam",
@@ -596,7 +636,8 @@
       "lng": 72.6414816,
       "line_id": "L3",
       "dist": 26.13,
-      "time_offset": 47
+      "time_offset": 47,
+      "address": "Koba Gam Metro Station"
     },
     "GNLU": {
       "name": "GNLU",
@@ -606,6 +647,7 @@
       "line_id": "L3",
       "dist": 27.04,
       "interchange": true,
+      "address": "GNLU Metro Station",
       "connecting": [
         "L3",
         "L4"
@@ -619,7 +661,8 @@
       "lng": 72.6470446,
       "line_id": "L3",
       "dist": 28.48,
-      "time_offset": 51
+      "time_offset": 51,
+      "address": "Raysan Metro Station"
     },
     "Randesan": {
       "name": "Randesan",
@@ -628,7 +671,8 @@
       "lng": 72.6438288,
       "line_id": "L3",
       "dist": 29.85,
-      "time_offset": 53
+      "time_offset": 53,
+      "address": "Randesan Metro Station"
     },
     "Dholakuva_Circle": {
       "name": "Dholakuva Circle",
@@ -637,7 +681,8 @@
       "lng": 72.6412198,
       "line_id": "L3",
       "dist": 31.01,
-      "time_offset": 55
+      "time_offset": 55,
+      "address": "Dholakuva Circle Metro Station"
     },
     "Infocity": {
       "name": "Infocity",
@@ -646,7 +691,8 @@
       "lng": 72.6357932,
       "line_id": "L3",
       "dist": 32.4,
-      "time_offset": 57
+      "time_offset": 57,
+      "address": "Infocity Metro Station"
     },
     "Sector_1": {
       "name": "Sector 1",
@@ -655,7 +701,8 @@
       "lng": 72.6415457,
       "line_id": "L3",
       "dist": 33.67,
-      "time_offset": 59
+      "time_offset": 59,
+      "address": "Sector 1 Metro Station"
     },
     "Sector_10A": {
       "name": "Sector 10A",
@@ -664,7 +711,8 @@
       "lng": 72.6502639,
       "line_id": "L3",
       "dist": 34.92,
-      "time_offset": 61
+      "time_offset": 61,
+      "address": "Sector 10A Metro Station"
     },
     "Sachivalaya": {
       "name": "Sachivalaya",
@@ -673,7 +721,8 @@
       "lng": 72.6573164,
       "line_id": "L3",
       "dist": 36.11,
-      "time_offset": 63
+      "time_offset": 63,
+      "address": "Sachivalaya Metro Station"
     },
     "Akshardham": {
       "name": "Akshardham",
@@ -682,7 +731,8 @@
       "lng": 72.6620259,
       "line_id": "L3",
       "dist": 37.24,
-      "time_offset": 65
+      "time_offset": 65,
+      "address": "Akshardham Metro Station"
     },
     "Juna_Sachivalaya": {
       "name": "Juna Sachivalaya",
@@ -691,7 +741,8 @@
       "lng": 72.6580138,
       "line_id": "L3",
       "dist": 38.14,
-      "time_offset": 67
+      "time_offset": 67,
+      "address": "Juna Sachivalaya Metro Station"
     },
     "Sector_16": {
       "name": "Sector 16",
@@ -700,7 +751,8 @@
       "lng": 72.648653,
       "line_id": "L3",
       "dist": 39.23,
-      "time_offset": 69
+      "time_offset": 69,
+      "address": "Sector 16 Metro Station"
     },
     "Sector_24": {
       "name": "Sector 24",
@@ -709,7 +761,8 @@
       "lng": 72.6392566,
       "line_id": "L3",
       "dist": 40.27,
-      "time_offset": 71
+      "time_offset": 71,
+      "address": "Sector 24 Metro Station"
     },
     "Mahatma_Mandir": {
       "name": "Mahatma Mandir",
@@ -718,7 +771,8 @@
       "lng": 72.6317196,
       "line_id": "L3",
       "dist": 41.47,
-      "time_offset": 73
+      "time_offset": 73,
+      "address": "Mahatma Mandir Metro Station"
     },
     "GNLU_L4": {
       "name": "GNLU",
@@ -727,7 +781,8 @@
       "lng": 72.6474089,
       "line_id": "L4",
       "dist": 0.0,
-      "time_offset": 49
+      "time_offset": 49,
+      "address": "GNLU Metro Station"
     },
     "PDEU": {
       "name": "PDEU",
@@ -736,7 +791,8 @@
       "lng": 72.6601902,
       "line_id": "L4",
       "dist": 1.75,
-      "time_offset": 52
+      "time_offset": 52,
+      "address": "PDEU Metro Station"
     },
     "GIFT_City": {
       "name": "GIFT City",
@@ -745,7 +801,8 @@
       "lng": 72.6847764,
       "line_id": "L4",
       "dist": 4.61,
-      "time_offset": 55
+      "time_offset": 55,
+      "address": "GIFT City Metro Station"
     }
   }
 }
