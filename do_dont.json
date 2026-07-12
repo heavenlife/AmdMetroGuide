@@ -1,0 +1,218 @@
+{
+  "EN": {
+    "dos": [
+      {
+        "title": "Never squat on the train floor."
+      },
+      {
+        "title": "Abstain from drunken and unruly behavior."
+      },
+      {
+        "title": "Let passengers exit from the train before boarding."
+      },
+      {
+        "title": "Watch the gap between the train and the platform edge."
+      },
+      {
+        "title": "Stand in the queue while waiting for trains at the platform."
+      },
+      {
+        "title": "In case you hear or see something unusual, please inform Metro staff or security personnel inside trains or stations."
+      },
+      {
+        "title": "It is illegal to beg, solicit products, or conduct group activities on the train and at the station. Please report such activities to the station staff."
+      },
+      {
+        "title": "Please be sure to take all your belongings with you when you get off the train. If you lose something within metro premises, contact GMRC Lost & Found Cell."
+      },
+      {
+        "title": "Limit your baggage to 25 Kg, not exceeding 80 cm (Length) × 50 cm (Breadth) × 30 cm (Height)."
+      }
+    ],
+    "donts": [
+      {
+        "title": "Do not smoke inside Metro premises."
+      },
+      {
+        "title": "Do not jump over the ticket barrier."
+      },
+      {
+        "title": "Do not try to open the doors forcibly."
+      },
+      {
+        "title": "Do not travel without valid ticket/token."
+      },
+      {
+        "title": "Do not bring pets inside Metro stations."
+      },
+      {
+        "title": "Do not run or play on escalators."
+      },
+      {
+        "title": "Do not lean on train doors."
+      },
+      {
+        "title": "Do not spit or litter."
+      },
+      {
+        "title": "Do not eat or drink inside trains."
+      },
+      {
+        "title": "Do not paste posters or deface Metro property."
+      },
+      {
+        "title": "Do not step onto the tracks. The 3rd rail carries 750V DC."
+      },
+      {
+        "title": "Do not share your ticket with another passenger."
+      },
+      {
+        "title": "Do not push or rush on platforms."
+      }
+    ]
+  },
+  "GU": {
+    "dos": [
+      {
+        "title": "ટ્રેનના ફ્લોર પર બેસશો નહીં."
+      },
+      {
+        "title": "દારૂના નશામાં અથવા ગેરવર્તણૂક કરશો નહીં."
+      },
+      {
+        "title": "પહેલા મુસાફરોને ઉતરવા દો, ત્યારબાદ ટ્રેનમાં ચડો."
+      },
+      {
+        "title": "ટ્રેન અને પ્લેટફોર્મ વચ્ચેના અંતરનું ધ્યાન રાખો."
+      },
+      {
+        "title": "ટ્રેનની રાહ જોતી વખતે કતારમાં ઊભા રહો."
+      },
+      {
+        "title": "કોઈ શંકાસ્પદ વસ્તુ અથવા ઘટના જોવા મળે તો તરત જ મેટ્રો સ્ટાફ અથવા સુરક્ષા કર્મચારીને જાણ કરો."
+      },
+      {
+        "title": "મેટ્રોમાં ભીખ માંગવી, વસ્તુઓ વેચવી અથવા જૂથ પ્રવૃત્તિ કરવી ગેરકાયદેસર છે. આવી ઘટના જોવા મળે તો સ્ટાફને જાણ કરો."
+      },
+      {
+        "title": "ટ્રેનમાંથી ઉતરતા પહેલા તમારો તમામ સામાન સાથે લઈ જવાનું ભૂલશો નહીં. કોઈ વસ્તુ ખોવાઈ જાય તો GMRC Lost & Found Cell નો સંપર્ક કરો."
+      },
+      {
+        "title": "તમારો સામાન 25 કિલોગ્રામથી વધુ ન હોવો જોઈએ અને તેનું માપ 80 × 50 × 30 સેમીથી વધુ ન હોવું જોઈએ."
+      }
+    ],
+    "donts": [
+      {
+        "title": "મેટ્રો પરિસરમાં ધુમ્રપાન કરશો નહીં."
+      },
+      {
+        "title": "ટિકિટ ગેટ પરથી કૂદી પસાર થશો નહીં."
+      },
+      {
+        "title": "ટ્રેનના દરવાજા જબરદસ્તી ખોલવાનો પ્રયાસ કરશો નહીં."
+      },
+      {
+        "title": "માન્ય ટિકિટ અથવા ટોકન વગર મુસાફરી કરશો નહીં."
+      },
+      {
+        "title": "મેટ્રો સ્ટેશનમાં પાળતુ પ્રાણીઓ લાવશો નહીં."
+      },
+      {
+        "title": "એસ્કેલેટર પર દોડશો નહીં અથવા રમશો નહીં."
+      },
+      {
+        "title": "ટ્રેનના દરવાજા પર ટેકો ન રાખો અથવા હાથ ન મૂકો."
+      },
+      {
+        "title": "મેટ્રો પરિસરમાં થૂંકશો નહીં અથવા કચરો ન ફેંકો."
+      },
+      {
+        "title": "ટ્રેન અથવા સ્ટેશનના પેઇડ વિસ્તારમાં ખાવા-પીવાનું નહીં."
+      },
+      {
+        "title": "મેટ્રોની સંપત્તિ પર પોસ્ટર લગાવશો નહીં અથવા નુકસાન કરશો નહીં."
+      },
+      {
+        "title": "મેટ્રોના ટ્રેક પર ક્યારેય ન ઉતરો. ત્રીજી રેલમાં 750 વોલ્ટ DC વીજ પ્રવાહ હોય છે."
+      },
+      {
+        "title": "તમારી ટિકિટ અથવા ટોકન અન્ય વ્યક્તિને ઉપયોગ માટે આપશો નહીં."
+      },
+      {
+        "title": "પ્લેટફોર્મ પર દોડાદોડ અથવા ધક્કામુક્કી કરશો નહીં."
+      }
+    ]
+  },
+  "HI": {
+    "dos": [
+      {
+        "title": "ट्रेन के फर्श पर न बैठें।"
+      },
+      {
+        "title": "नशे की हालत में या अनुचित व्यवहार न करें।"
+      },
+      {
+        "title": "पहले यात्रियों को उतरने दें, उसके बाद ही ट्रेन में चढ़ें।"
+      },
+      {
+        "title": "ट्रेन और प्लेटफ़ॉर्म के बीच की दूरी का ध्यान रखें।"
+      },
+      {
+        "title": "ट्रेन का इंतजार करते समय कतार में खड़े रहें।"
+      },
+      {
+        "title": "यदि कोई संदिग्ध वस्तु या घटना दिखाई दे तो तुरंत मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचित करें।"
+      },
+      {
+        "title": "मेट्रो में भीख मांगना, सामान बेचना या समूह गतिविधियाँ करना प्रतिबंधित है। ऐसी गतिविधि दिखने पर स्टेशन स्टाफ को सूचित करें।"
+      },
+      {
+        "title": "ट्रेन से उतरते समय अपना सारा सामान साथ ले जाना न भूलें। कोई सामान खो जाए तो GMRC Lost & Found Cell से संपर्क करें।"
+      },
+      {
+        "title": "आपका सामान 25 किलोग्राम से अधिक तथा 80 × 50 × 30 सेमी से बड़ा नहीं होना चाहिए।"
+      }
+    ],
+    "donts": [
+      {
+        "title": "मेट्रो परिसर में धूम्रपान न करें।"
+      },
+      {
+        "title": "टिकट गेट को कूदकर पार न करें।"
+      },
+      {
+        "title": "ट्रेन के दरवाज़े जबरदस्ती खोलने का प्रयास न करें।"
+      },
+      {
+        "title": "वैध टिकट या टोकन के बिना यात्रा न करें।"
+      },
+      {
+        "title": "मेट्रो स्टेशन में पालतू जानवर न लाएँ।"
+      },
+      {
+        "title": "एस्केलेटर पर दौड़ें या खेलें नहीं।"
+      },
+      {
+        "title": "ट्रेन के दरवाज़ों पर झुकें नहीं और हाथ न रखें।"
+      },
+      {
+        "title": "मेट्रो परिसर में थूकें नहीं और कूड़ा न फैलाएँ।"
+      },
+      {
+        "title": "ट्रेन या स्टेशन के भुगतान क्षेत्र में खाना-पीना न करें।"
+      },
+      {
+        "title": "मेट्रो स्टेशन या ट्रेन में पोस्टर न लगाएँ और संपत्ति को नुकसान न पहुँचाएँ।"
+      },
+      {
+        "title": "मेट्रो ट्रैक पर कभी न उतरें। तीसरी रेल में 750 वोल्ट DC विद्युत प्रवाहित होती है।"
+      },
+      {
+        "title": "अपना टिकट या टोकन किसी अन्य व्यक्ति को उपयोग के लिए न दें।"
+      },
+      {
+        "title": "प्लेटफ़ॉर्म पर दौड़ें नहीं और अन्य यात्रियों को धक्का न दें।"
+      }
+    ]
+  }
+}
