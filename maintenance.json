@@ -3,7 +3,5 @@
   "title": "Under Maintenance",
   "message": "We're upgrading our systems to serve you better. Please check back after the timer below ends.",
   "startTime": "2026-07-14T22:00:00",
-  "remainingHours": 3,
-  "remainingMinutes": 0,
-  "remainingSeconds": 0
+  "endTime": "2026-07-15T01:00:00"
 }
