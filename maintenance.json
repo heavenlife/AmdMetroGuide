@@ -1,7 +1,15 @@
 {
   "isUnderMantanace": true,
-  "title": "Under Maintenance",
-  "message": "We're upgrading our systems to serve you better. Please check back after the timer below ends.",
+ "title": {
+    "EN": "Under Maintenance",
+    "HI": "रखरखाव जारी है",
+    "GU": "જાળવણી હેઠળ"
+  },
+  "message": {
+    "EN": "We're upgrading our systems to serve you better. Please check back after the timer below ends.",
+    "HI": "हम आपको बेहतर सेवा देने के लिए अपने सिस्टम को अपग्रेड कर रहे हैं। कृपया नीचे दिए गए टाइमर के खत्म होने के बाद वापस देखें।",
+    "GU": "તમને વધુ સારી સેવા આપવા માટે અમે અમારી સિસ્ટમ અપગ્રેડ કરી રહ્યા છીએ. કૃપા કરીને નીચેનું ટાઈમર પૂરું થયા પછી ફરી તપાસો."
+  },l̥
   "startTime": "2026-07-14T22:00:00",
   "endTime": "2026-07-15T01:00:00"
 }
